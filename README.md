@@ -20,7 +20,10 @@ This project analyzes real estate sales data from 2011 to 2022 using Tableau. Th
 - Interactive Filters for Town, Year, and Property Type
 
 ## Dataset
-Real Estate Sales Data (2011–2022).
+The original Real Estate Sales dataset (2011–2022) is hosted on Google Drive because of its large file size.
+
+## Download Dataset: 
+https://docs.google.com/spreadsheets/d/1TrcHtmnB7ZAde35HHcN-_aVzJgZZ1GDN/edit?usp=sharing&ouid=116496534853156371182&rtpof=true&sd=true
 
 ## Key Objectives
 - Analyze real estate sales performance.
@@ -31,8 +34,10 @@ Real Estate Sales Data (2011–2022).
 
 ## Project Files
 - Tableau Workbook
-- Excel Dataset
+- Excel Dataset Link
 - Dashboard Screenshot
 
-## Created By
+## Author
 Megha Vasava
+
+Aspiring Data Analyst
